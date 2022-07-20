@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @badbarbie26
+- 👋 Hi, I’m @datacyborg
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning Excel, Power Bi, python and Sql
 - 💞️ I’m looking to collaborate on projects
